@@ -1,2 +1,3 @@
 ^https?://(www\.)?yandex\.ru
 ^https?://(www\.)?mail\.ru
+^https?://(www\.)?ya\.ru
