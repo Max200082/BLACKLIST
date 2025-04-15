@@ -1,2 +1,4 @@
 ^https?://ya\.ru
 ^https?://mail\.ru
+mail.ru
+^https://mail.ru
